@@ -4,6 +4,11 @@ I'm an enthusiastic computer engineering student passionate about software engin
 
 ---
 
+## Career Interests
+- Open to any type of software engineering or embedded systems role
+- Out of all languages, I definitely enjoy working with C++ the most, and I'd love to be able to apply that in the fields of software engineering, embedded systems, or robotics
+
+
 ## What I Work On
 
 - **Low-Level Programming & Embedded Systems**
@@ -39,7 +44,7 @@ I'm an enthusiastic computer engineering student passionate about software engin
 | [Air Monitoring System]()               | C, AVR, I2C, SPI    | Integrated CO₂/temp/humidity sensors, real-time data display on SerLCD              |
 | [Four-Staged SIMD Unit]()               | VHDL, C++           | SIMD multimedia processor design, MIPS-like ISA and assembler                       |
 | [Robotics Competition 2024]()                 | Python, HTML, CSS, JS   | Robot logic, wireless control, Raspberry Pi, team-based design & development        |
-| [NSBE SBU Website]()                  | HTML, CSS, JS, Git  | Responsive website for Stony Brook NSBE chapter, ongoing feature updates            |
+| [NSBE SBU Website](https://sbunsbe.org/)                  | HTML, CSS, JS, Git  | Responsive website for Stony Brook NSBE chapter, ongoing feature updates            |
 
 ---
 
