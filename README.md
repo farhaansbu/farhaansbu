@@ -41,7 +41,7 @@ I'm an enthusiastic computer engineering student passionate about software engin
 | Project                              | Tech/Tools          | Description                                                                         |
 |---------------------------------------|---------------------|-------------------------------------------------------------------------------------|
 | [CAN Bus Vehicle Sensor Interface]()      | C++, ESP32, CAN     | Real-time sensor data acquisition, FreeRTOS-based multitasking                      |
-| [Air Monitoring System]()               | C, AVR, I2C, SPI    | Integrated CO₂/temp/humidity sensors, real-time data display on SerLCD              |
+| [Air Monitoring System](https://github.com/farhaansbu/Air-Monitoring-System)               | C, AVR, I2C, SPI    | Integrated CO₂/temp/humidity sensors, real-time data display on SerLCD              |
 | [Four-Staged SIMD Unit](https://github.com/farhaansbu/4-Stage-Pipelined-Processor)               | VHDL, C++           | SIMD multimedia processor design, MIPS-like ISA and assembler                       |
 | [Robotics Competition 2024]()                 | Python, HTML, CSS, JS   | Robot logic, wireless control, Raspberry Pi, team-based design & development        |
 | [NSBE SBU Website](https://github.com/farhaansbu/sbu-nsbe-website)                  | HTML, CSS, JS, Git  | Responsive website for Stony Brook NSBE chapter, ongoing feature updates            |
