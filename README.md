@@ -5,7 +5,7 @@ I'm an enthusiastic computer engineering student passionate about software engin
 ---
 
 ## Career Interests
-- Open to any type of software engineering or embedded systems role
+- Open to any type of software engineering, embedded systems, or robotics role
 - Out of all languages, I definitely enjoy working with C++ the most, and I'd love to be able to apply that in the fields of software engineering, embedded systems, or robotics
 
 
